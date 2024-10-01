@@ -7,14 +7,14 @@
       Nama
     </td>
     <td>
-      Alif Fadhil Wibowo
+      M Abiyyu Adilfi
     </td>
   </tr>
   <tr>
     <td>
       NIM 
     </td>
-    <td>A11.2024.16030</td>
+    <td>A11.2023.15505</td>
   </tr>
   <tr>
     <td>Progdi</td>
